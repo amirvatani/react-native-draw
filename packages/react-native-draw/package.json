@@ -39,7 +39,7 @@
     "svg"
   ],
   "dependencies": {
-    "@luncheon/simplify-svg-path": "^0.2.0"
+    "@luncheon/simplify-svg-path": "git+https://github.com/amirvatani/simplify-svg-path"
   },
   "devDependencies": {
     "@types/react": "^17.0.1",
